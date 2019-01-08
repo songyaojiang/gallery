@@ -131,7 +131,6 @@
     this._targetImageWrap = null
 
     this._targetImage = img
-    // this._targetImage.src = img.getAttribute('data-original')
 
     this._$body = $(document.body)
   }
@@ -148,9 +147,6 @@
       this._zoomOriginal()
     }, this)
     img.src = this._targetImage.src
-    // img.name = 'zoomed_img'
-    // img.src = this._targetImage.getAttribute('data-original')
-    // this._targetImage = img
   }
 
   Zoom.prototype._zoomOriginal = function () {
@@ -240,7 +236,6 @@
   }
 
   Zoom.prototype.close = function () {
-    // this._targetImage.src = this._targetImage.getAttribute('data-src')
     this._$body
       .removeClass('zoom-overlay-open')
       .addClass('zoom-overlay-transitioning')
@@ -271,7 +266,6 @@
 
   Zoom.prototype.dispose = function () {
     if (this._targetImageWrap && this._targetImageWrap.parentNode) {
-      // this._targetImage.src = this._targetImage.getAttribute('data-src')
       $(this._targetImage)
         .removeClass('zoom-img')
         .attr('data-action', 'zoom')
