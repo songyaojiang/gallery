@@ -146,8 +146,10 @@
       this._fullWidth = Number(img.width)
       this._zoomOriginal()
     }, this)
-    img.src = this._targetImage.src
+    // img.src = this._targetImage.src
     img.name = 'zoomed_img'
+    img.src = this._targetImage.getAttribute('data-original')
+    this._targetImage = img
   }
 
   Zoom.prototype._zoomOriginal = function () {
