@@ -187,14 +187,6 @@
       "placeholder_path": "./photos/Landscape/5DR07118.placeholder.jpg"
     },
     {
-      "width": 4032,
-      "height": 3024,
-      "path": "./photos/Landscape/IMG_2948.jpg",
-      "compressed_path": "./photos/Landscape/IMG_2948.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Landscape/IMG_2948.placeholder.jpg"
-    },
-    {
       "width": 4898,
       "height": 3265,
       "path": "./photos/Landscape/IMG_3624.jpg",
