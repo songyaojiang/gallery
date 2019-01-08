@@ -240,7 +240,7 @@
   }
 
   Zoom.prototype.close = function () {
-    this._targetImage.src = this._targetImage.getAttribute('data-src')
+    // this._targetImage.src = this._targetImage.getAttribute('data-src')
     this._$body
       .removeClass('zoom-overlay-open')
       .addClass('zoom-overlay-transitioning')
@@ -271,7 +271,7 @@
 
   Zoom.prototype.dispose = function () {
     if (this._targetImageWrap && this._targetImageWrap.parentNode) {
-      this._targetImage.src = this._targetImage.getAttribute('data-src')
+      // this._targetImage.src = this._targetImage.getAttribute('data-src')
       $(this._targetImage)
         .removeClass('zoom-img')
         .attr('data-action', 'zoom')
