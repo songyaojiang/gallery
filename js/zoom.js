@@ -141,12 +141,15 @@
 
   Zoom.prototype.zoomImage = function () {
     var img = document.createElement('img')
+    img.name='zoomed_img'
     img.onload = $.proxy(function () {
       this._fullHeight = Number(img.height)
       this._fullWidth = Number(img.width)
       this._zoomOriginal()
     }, this)
+    // img.src = this._targetImage.src
     img.src = this._targetImage.getAttribute('data-original')
+    console.log(this._targetImage.getAttribute('data-original'))
   }
 
   Zoom.prototype._zoomOriginal = function () {
