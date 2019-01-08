@@ -1,5 +1,6 @@
 body {
   font-family: 'Lato', 'Helvetica', 'Verdana', sans-serif;
+  background-color: black;
 }
 
 #container {
@@ -11,7 +12,7 @@ body {
 .header {
   margin-top: 124px;
   margin-bottom: 32px;
-
+  color: antiquewhite;
   font-size: 30px;
   font-weight: 900;
   letter-spacing: 3px;
@@ -52,6 +53,10 @@ h3 {
   color: #999;
   font-weight: 300;
   text-align: center;
+}
+
+a {
+  color: antiquewhite;
 }
 
 .links {
