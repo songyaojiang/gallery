@@ -1,270 +1,270 @@
 {
-  "Mockups": [
+  "Stargazing": [
     {
-      "height": 2020,
-      "compressed_path": "./photos/Mockups/Desktop.min.png",
-      "width": 1440,
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Stargazing/aurorastartrack_acadia.jpg",
+      "compressed_path": "./photos/Stargazing/aurorastartrack_acadia.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Mockups/Desktop.placeholder.png",
-      "path": "./photos/Mockups/Desktop.png"
+      "placeholder_path": "./photos/Stargazing/aurorastartrack_acadia.placeholder.jpg"
     },
     {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/curriculum.min.png",
-      "width": 1440,
+      "width": 1200,
+      "height": 1800,
+      "path": "./photos/Stargazing/IMG_2350.jpg",
+      "compressed_path": "./photos/Stargazing/IMG_2350.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Mockups/curriculum.placeholder.png",
-      "path": "./photos/Mockups/curriculum.png"
+      "placeholder_path": "./photos/Stargazing/IMG_2350.placeholder.jpg"
     },
     {
-      "height": 1000,
-      "compressed_path": "./photos/Mockups/Frame.min.png",
-      "width": 1000,
+      "width": 3792,
+      "height": 3186,
+      "path": "./photos/Stargazing/IMG_1081.jpg",
+      "compressed_path": "./photos/Stargazing/IMG_1081.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Mockups/Frame.placeholder.png",
-      "path": "./photos/Mockups/Frame.png"
+      "placeholder_path": "./photos/Stargazing/IMG_1081.placeholder.jpg"
     },
     {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/glossary.min.png",
-      "width": 1440,
+      "width": 1366,
+      "height": 1366,
+      "path": "./photos/Stargazing/IMG_2166.jpg",
+      "compressed_path": "./photos/Stargazing/IMG_2166.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Mockups/glossary.placeholder.png",
-      "path": "./photos/Mockups/glossary.png"
+      "placeholder_path": "./photos/Stargazing/IMG_2166.placeholder.jpg"
     },
     {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/photoframe.min.png",
-      "width": 1440,
+      "width": 2160,
+      "height": 1440,
+      "path": "./photos/Stargazing/aurora_acadia.jpg",
+      "compressed_path": "./photos/Stargazing/aurora_acadia.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Mockups/photoframe.placeholder.png",
-      "path": "./photos/Mockups/photoframe.png"
+      "placeholder_path": "./photos/Stargazing/aurora_acadia.placeholder.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Stargazing/milkyriver_acadia.jpg",
+      "compressed_path": "./photos/Stargazing/milkyriver_acadia.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Stargazing/milkyriver_acadia.placeholder.jpg"
+    },
+    {
+      "width": 4697,
+      "height": 3131,
+      "path": "./photos/Stargazing/IMG_1918.jpg",
+      "compressed_path": "./photos/Stargazing/IMG_1918.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Stargazing/IMG_1918.placeholder.jpg"
+    },
+    {
+      "width": 2880,
+      "height": 1920,
+      "path": "./photos/Stargazing/IMG_3372.jpg",
+      "compressed_path": "./photos/Stargazing/IMG_3372.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Stargazing/IMG_3372.placeholder.jpg"
+    },
+    {
+      "width": 1280,
+      "height": 1390,
+      "path": "./photos/Stargazing/IMG_0900.jpg",
+      "compressed_path": "./photos/Stargazing/IMG_0900.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Stargazing/IMG_0900.placeholder.jpg"
+    },
+    {
+      "width": 1248,
+      "height": 1248,
+      "path": "./photos/Stargazing/IMG_2415.jpg",
+      "compressed_path": "./photos/Stargazing/IMG_2415.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Stargazing/IMG_2415.placeholder.jpg"
+    },
+    {
+      "width": 1920,
+      "height": 2880,
+      "path": "./photos/Stargazing/IMG_0258.jpg",
+      "compressed_path": "./photos/Stargazing/IMG_0258.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Stargazing/IMG_0258.placeholder.jpg"
+    },
+    {
+      "width": 748,
+      "height": 1015,
+      "path": "./photos/Stargazing/IMG_0312.png",
+      "compressed_path": "./photos/Stargazing/IMG_0312.min.png",
+      "compressed": true,
+      "placeholder_path": "./photos/Stargazing/IMG_0312.placeholder.png"
+    },
+    {
+      "width": 1451,
+      "height": 1451,
+      "path": "./photos/Stargazing/IMG_1867.jpg",
+      "compressed_path": "./photos/Stargazing/IMG_1867.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Stargazing/IMG_1867.placeholder.jpg"
     }
   ],
-  "Travel Photography": [
+  "Landscape": [
     {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF0219.min.jpg",
-      "width": 3578,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0219.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0219.jpg"
-    },
-    {
-      "height": 3265,
-      "compressed_path": "./photos/Travel Photography/DSCF1502.min.jpg",
       "width": 4898,
+      "height": 3266,
+      "path": "./photos/Landscape/moonrise_boston.jpg",
+      "compressed_path": "./photos/Landscape/moonrise_boston.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1502.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1502.jpg"
+      "placeholder_path": "./photos/Landscape/moonrise_boston.placeholder.jpg"
     },
     {
-      "height": 2940,
-      "compressed_path": "./photos/Travel Photography/IMG_9966.min.jpg",
-      "width": 2205,
+      "width": 2676,
+      "height": 2676,
+      "path": "./photos/Landscape/IMG_1235.jpg",
+      "compressed_path": "./photos/Landscape/IMG_1235.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_9966.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_9966.jpg"
+      "placeholder_path": "./photos/Landscape/IMG_1235.placeholder.jpg"
     },
     {
-      "height": 4422,
-      "compressed_path": "./photos/Travel Photography/DSCF7399.min.jpg",
-      "width": 3538,
+      "width": 4898,
+      "height": 3265,
+      "path": "./photos/Landscape/IMG_3596.jpg",
+      "compressed_path": "./photos/Landscape/IMG_3596.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF7399.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF7399.jpg"
+      "placeholder_path": "./photos/Landscape/IMG_3596.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8091.min.jpg",
-      "width": 3265,
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Landscape/IMG_0190.jpg",
+      "compressed_path": "./photos/Landscape/IMG_0190.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8091.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8091.jpg"
+      "placeholder_path": "./photos/Landscape/IMG_0190.placeholder.jpg"
     },
     {
-      "height": 4080,
-      "compressed_path": "./photos/Travel Photography/DSCF4244.min.jpg",
-      "width": 3264,
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Landscape/IMG_2296.jpg",
+      "compressed_path": "./photos/Landscape/IMG_2296.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF4244.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF4244.jpg"
+      "placeholder_path": "./photos/Landscape/IMG_2296.placeholder.jpg"
     },
     {
-      "height": 3151,
-      "compressed_path": "./photos/Travel Photography/DSCF1894.min.jpg",
-      "width": 2363,
+      "width": 5177,
+      "height": 3090,
+      "path": "./photos/Landscape/doublerainbow.jpg",
+      "compressed_path": "./photos/Landscape/doublerainbow.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1894.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1894.jpg"
+      "placeholder_path": "./photos/Landscape/doublerainbow.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8053.min.jpg",
-      "width": 3265,
+      "width": 4898,
+      "height": 3265,
+      "path": "./photos/Landscape/IMG_3623.jpg",
+      "compressed_path": "./photos/Landscape/IMG_3623.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8053.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8053.jpg"
+      "placeholder_path": "./photos/Landscape/IMG_3623.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8196.min.jpg",
-      "width": 3265,
+      "width": 4618,
+      "height": 3464,
+      "path": "./photos/Landscape/northwestuniversity.jpg",
+      "compressed_path": "./photos/Landscape/northwestuniversity.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8196.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8196.jpg"
+      "placeholder_path": "./photos/Landscape/northwestuniversity.placeholder.jpg"
     },
     {
-      "height": 3808,
-      "compressed_path": "./photos/Travel Photography/DSCF2242.min.jpg",
-      "width": 2856,
+      "width": 917,
+      "height": 688,
+      "path": "./photos/Landscape/IMG_8159.jpg",
+      "compressed_path": "./photos/Landscape/IMG_8159.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF2242.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF2242.jpg"
+      "placeholder_path": "./photos/Landscape/IMG_8159.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF0989(1).min.jpg",
-      "width": 3265,
+      "width": 4898,
+      "height": 3265,
+      "path": "./photos/Landscape/5DR07118.jpg",
+      "compressed_path": "./photos/Landscape/5DR07118.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0989(1).placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0989(1).jpg"
+      "placeholder_path": "./photos/Landscape/5DR07118.placeholder.jpg"
     },
     {
-      "height": 4062,
-      "compressed_path": "./photos/Travel Photography/DSCF8958.min.jpg",
-      "width": 3250,
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Landscape/IMG_2948.jpg",
+      "compressed_path": "./photos/Landscape/IMG_2948.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8958.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8958.jpg"
+      "placeholder_path": "./photos/Landscape/IMG_2948.placeholder.jpg"
     },
     {
-      "height": 4415,
-      "compressed_path": "./photos/Travel Photography/IMG_0072.min.jpg",
-      "width": 3311,
+      "width": 4898,
+      "height": 3265,
+      "path": "./photos/Landscape/IMG_3624.jpg",
+      "compressed_path": "./photos/Landscape/IMG_3624.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_0072.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_0072.jpg"
+      "placeholder_path": "./photos/Landscape/IMG_3624.placeholder.jpg"
     },
     {
-      "height": 4899,
-      "compressed_path": "./photos/Travel Photography/DSCF0860.min.jpg",
-      "width": 3266,
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Landscape/IMG_0933.jpg",
+      "compressed_path": "./photos/Landscape/IMG_0933.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0860.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0860.jpg"
+      "placeholder_path": "./photos/Landscape/IMG_0933.placeholder.jpg"
     },
     {
-      "height": 3388,
-      "compressed_path": "./photos/Travel Photography/IMG_9863.min.jpg",
-      "width": 2541,
+      "width": 4898,
+      "height": 3265,
+      "path": "./photos/Landscape/IMG_0024.jpg",
+      "compressed_path": "./photos/Landscape/IMG_0024.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_9863.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_9863.jpg"
+      "placeholder_path": "./photos/Landscape/IMG_0024.placeholder.jpg"
     },
     {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF0138.min.jpg",
-      "width": 3578,
+      "width": 4898,
+      "height": 3265,
+      "path": "./photos/Landscape/IMG_2029.jpg",
+      "compressed_path": "./photos/Landscape/IMG_2029.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0138.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0138.jpg"
+      "placeholder_path": "./photos/Landscape/IMG_2029.placeholder.jpg"
     },
     {
-      "height": 4149,
-      "compressed_path": "./photos/Travel Photography/20160406-20160505DSCF2086.min.jpg",
-      "width": 3112,
+      "width": 2214,
+      "height": 2214,
+      "path": "./photos/Landscape/IMG_9641.jpg",
+      "compressed_path": "./photos/Landscape/IMG_9641.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/20160406-20160505DSCF2086.placeholder.jpg",
-      "path": "./photos/Travel Photography/20160406-20160505DSCF2086.jpg"
+      "placeholder_path": "./photos/Landscape/IMG_9641.placeholder.jpg"
     },
     {
-      "height": 4352,
-      "compressed_path": "./photos/Travel Photography/DSCF1802.min.jpg",
-      "width": 3264,
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Landscape/IMG_0471.jpg",
+      "compressed_path": "./photos/Landscape/IMG_0471.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1802.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1802.jpg"
+      "placeholder_path": "./photos/Landscape/IMG_0471.placeholder.jpg"
     },
     {
-      "height": 4352,
-      "compressed_path": "./photos/Travel Photography/DSCF3621.min.jpg",
-      "width": 3264,
+      "width": 4898,
+      "height": 3265,
+      "path": "./photos/Landscape/nightview_newyork.jpg",
+      "compressed_path": "./photos/Landscape/nightview_newyork.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF3621.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF3621.jpg"
+      "placeholder_path": "./photos/Landscape/nightview_newyork.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8993.min.jpg",
-      "width": 3265,
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Landscape/auroraonflight.jpg",
+      "compressed_path": "./photos/Landscape/auroraonflight.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8993.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8993.jpg"
+      "placeholder_path": "./photos/Landscape/auroraonflight.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8103.min.jpg",
-      "width": 3265,
+      "width": 4898,
+      "height": 3265,
+      "path": "./photos/Landscape/IMG_1139.jpg",
+      "compressed_path": "./photos/Landscape/IMG_1139.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8103.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8103.jpg"
-    },
-    {
-      "height": 3943,
-      "compressed_path": "./photos/Travel Photography/DSCF5784.min.jpg",
-      "width": 3154,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF5784.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF5784.jpg"
-    },
-    {
-      "height": 3264,
-      "compressed_path": "./photos/Travel Photography/DSCF4538.min.jpg",
-      "width": 2611,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF4538.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF4538.jpg"
-    },
-    {
-      "height": 3000,
-      "compressed_path": "./photos/Travel Photography/DSCF1252.min.jpg",
-      "width": 5332,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1252.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1252.jpg"
-    },
-    {
-      "height": 3962,
-      "compressed_path": "./photos/Travel Photography/DSCF5636.min.jpg",
-      "width": 3170,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF5636.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF5636.jpg"
-    },
-    {
-      "height": 2848,
-      "compressed_path": "./photos/Travel Photography/IMG_7575.min.jpg",
-      "width": 3797,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_7575.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_7575.jpg"
-    },
-    {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF8846.min.jpg",
-      "width": 3578,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8846.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8846.jpg"
-    },
-    {
-      "height": 3399,
-      "compressed_path": "./photos/Travel Photography/DSCF7355.min.jpg",
-      "width": 2719,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF7355.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF7355.jpg"
+      "placeholder_path": "./photos/Landscape/IMG_1139.placeholder.jpg"
     }
   ]
 }
