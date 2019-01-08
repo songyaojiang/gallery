@@ -130,9 +130,7 @@
     this._overlay         =
     this._targetImageWrap = null
 
-    // this._targetImage = img
-    this._targetImage = new Image()
-    this._targetImage.src = img.getAttribute('data-original')
+    this._targetImage = img
 
     this._$body = $(document.body)
   }
@@ -148,7 +146,7 @@
       this._fullWidth = Number(img.width)
       this._zoomOriginal()
     }, this)
-    img.src = this._targetImage.src
+    img.src = this._targetImage.getAttribute('data-original')
   }
 
   Zoom.prototype._zoomOriginal = function () {
