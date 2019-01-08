@@ -43,8 +43,7 @@
     this._activeZoomClose(true)
 
     this._activeZoom = new Zoom(target)
-    // this._activeZoom.zoomImage()
-    this._activeZoom._zoomOriginal()
+    this._activeZoom.zoomImage()
 
     // todo(fat): probably worth throttling this
     this._$window.on('scroll.zoom', $.proxy(this._scrollHandler, this))
