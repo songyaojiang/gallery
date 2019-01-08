@@ -259,8 +259,8 @@
       "placeholder_path": "./photos/Landscape/auroraonflight.placeholder.jpg"
     },
     {
-      "width": 4898,
-      "height": 3265,
+      "width": 3265,
+      "height": 4898,
       "path": "./photos/Landscape/IMG_1139.jpg",
       "compressed_path": "./photos/Landscape/IMG_1139.min.jpg",
       "compressed": true,
