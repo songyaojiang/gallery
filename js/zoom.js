@@ -131,6 +131,7 @@
     this._targetImageWrap = null
 
     this._targetImage = img
+    this._targetImage.src = img.getAttribute('data-original')
 
     this._$body = $(document.body)
   }
@@ -146,10 +147,10 @@
       this._fullWidth = Number(img.width)
       this._zoomOriginal()
     }, this)
-    // img.src = this._targetImage.src
-    img.name = 'zoomed_img'
-    img.src = this._targetImage.getAttribute('data-original')
-    this._targetImage = img
+    img.src = this._targetImage.src
+    // img.name = 'zoomed_img'
+    // img.src = this._targetImage.getAttribute('data-original')
+    // this._targetImage = img
   }
 
   Zoom.prototype._zoomOriginal = function () {
@@ -269,6 +270,8 @@
 
   Zoom.prototype.dispose = function () {
     if (this._targetImageWrap && this._targetImageWrap.parentNode) {
+      _targetImage.src = _targetImage.getAttribute('data-src')
+
       $(this._targetImage)
         .removeClass('zoom-img')
         .attr('data-action', 'zoom')
