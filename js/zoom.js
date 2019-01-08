@@ -132,6 +132,8 @@
 
     this._targetImage = img
 
+    this._targetImage.src = img.getAttribute('data-original')
+
     this._$body = $(document.body)
   }
 
